@@ -1,2 +1,2 @@
 create customer table and views;
-Hi
+Hi how are u
